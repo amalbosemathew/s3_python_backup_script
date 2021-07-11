@@ -1,5 +1,5 @@
 # Python Script for uploading files to S3 bucket
-![](https://komarev.com/ghpvc/?username=amalbosemathew) 
+[![visits](https://github-visit-counter.herokuapp.com/{amalbosemathew}/{repo}/visits.svg)](#)
 [![Builds](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ---
