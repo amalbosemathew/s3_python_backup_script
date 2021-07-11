@@ -14,7 +14,7 @@ Here I would like to demonstrate a simple python script to take the backup of ea
 ---
 # Prerequisites
 
-- Need to have S3 bukcet create.
+- Need to have S3 bucket created.
 - Need to have Boto3 installed in your machine.
 - IAM role with attached policies for accesing S3.
 
