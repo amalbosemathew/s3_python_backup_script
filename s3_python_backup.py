@@ -34,7 +34,8 @@ client = boto3.client('s3',aws_access_key_id= access_key,aws_secret_access_key =
 
 for file in os.listdir('/tmp/backup'):
     if '.tar' in file:
-        upload_file_bucket = "private.s3.bucket.com"
+        #Mention your s3 bucket name here:
+        upload_file_bucket = "s3-bucket-name"
         upload_file_key    =  "backup/{}".format(file)
         path = posixpath.join('/tmp/backup/',file)
         #Lets upload the tar file to s3 bucket.
