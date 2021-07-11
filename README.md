@@ -1,5 +1,4 @@
 # Python Script for uploading files to S3 bucket
-[![visits](https://github-visit-counter.herokuapp.com/{amalbosemathew}/{s3_python_backup_script}/visits.svg)](#)
 [![Builds](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ---
