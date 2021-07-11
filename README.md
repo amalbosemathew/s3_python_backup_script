@@ -23,7 +23,7 @@ Here I would like to demonstrate a simple python script to take the backup of ea
 
 - [Boto3 Installation]("https://pypi.org/project/boto3/")
 ---
-# How to clone this repository and execute in Ansible master.
+# How to use this script ?.
 _Steps:_
 ```sh
 1. Create secrets.py with access_key and secrets_key of the IAM programatic user access with S3 full access.
