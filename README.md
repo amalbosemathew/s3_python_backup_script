@@ -39,9 +39,4 @@ BINGO !!!
 The intention of this project is to create backups of the directories in the document root and to upload the same to S3 bucket.
 
 Please feel free to contact me. Any type of feedbacks are appreciated.
-<p align="center">
-<a href="mailto:mathew.amalbose@gmail.com"><img src="https://img.shields.io/badge/-mathew.amalbose@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/amal-bose-mathew"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a>
-<a href="https://techbit-new.blogspot.com/"><img src="https://img.shields.io/badge/-Blogger-orange"/></a>
-  
 
